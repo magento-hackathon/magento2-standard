@@ -1,0 +1,34 @@
+{
+    "name": "magento-hackathon/magento2-standard",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "type": "project",
+    "description": "The \"Magento 2 Community Edition\" distribution",
+    "authors": [
+        {
+            "name": "Jacques Bodin-Hullin",
+            "email": "j.bodinhullin@monsieurbiz.com",
+            "homepage": "http://monsieurbiz.com/",
+            "role": "Maintainer"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packages.magento.com/"
+        }
+    ],
+    "require": {
+        "magento/product-community-edition": "2.0.0-rc2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Magento\\Setup\\": "setup/src/Magento/Setup/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
+
