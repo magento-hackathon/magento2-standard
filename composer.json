@@ -28,6 +28,11 @@
             "Magento\\Setup\\": "setup/src/Magento/Setup/"
         }
     },
+    "scripts": {
+        "post-install-cmd": [
+            "chmod ug+x bin/magento"
+        ]
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
