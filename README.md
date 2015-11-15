@@ -23,6 +23,10 @@ If you are, like me, on your own machine and you don't have all the dependencies
 
 	composer create-project --ignore-platform-reqs magento-hackathon/magento2-standard destination
 
+## Demo
+
+[![asciicast](https://asciinema.org/a/30082.png)](https://asciinema.org/a/30082)
+
 ## What does it do?
 
 It's really simple in fact. We just say to composer that Magento 2 is a dependency and we update the autoload to make the setup wizard work.
