@@ -21,7 +21,7 @@
         }
     ],
     "require": {
-        "magento/product-community-edition": "2.0.0-rc2"
+        "magento/product-community-edition": "2.0.0"
     },
     "autoload": {
         "psr-4": {
