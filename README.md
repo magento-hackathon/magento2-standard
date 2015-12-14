@@ -25,9 +25,11 @@ If you are, like me, on your own machine and you don't have all the dependencies
 
 	composer create-project --ignore-platform-reqs magento-hackathon/magento2-standard destination
 
-## Demo
+## Demos
 
-[![asciicast](https://asciinema.org/a/30082.png)](https://asciinema.org/a/30082)
+[![Video on Toutube](https://i.ytimg.com/vi/gmz9h8g6Gk8/maxresdefault.jpg)](https://www.youtube.com/watch?v=gmz9h8g6Gk8)
+
+[![Example with asciicast](https://asciinema.org/a/30082.png)](https://asciinema.org/a/30082)
 
 ## What does it do?
 
