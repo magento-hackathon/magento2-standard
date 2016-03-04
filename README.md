@@ -1,5 +1,11 @@
 # Magento 2 standard installation using composer
 
+---
+
+***Official installation note**: Since Magento released officialy version 2.0.0, they added the `composer project-create` command in the documentation. You can find more information here: <http://devdocs.magento.com/guides/v2.0/install-gde/prereq/integrator_install.html#integrator-first-composer-ce>*
+
+---
+
 ![Version of Magento](https://img.shields.io/badge/Version%20of%20Magento%20installed%20by%20this%20project-2.0.2-green.svg)
 
 As you probably know, Composer is used in Magento 2.  
