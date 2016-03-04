@@ -2,7 +2,7 @@
 
 ---
 
-***Official installation note**: Since Magento released officialy version 2.0.0, they added the `composer project-create` command in the documentation. You can find more information here: <http://devdocs.magento.com/guides/v2.0/install-gde/prereq/integrator_install.html#integrator-first-composer-ce>*
+*__Official installation note__: Since Magento released officialy version 2.0.0, they added the `composer project-create` command in the documentation. You can find more information here: <http://devdocs.magento.com/guides/v2.0/install-gde/prereq/integrator_install.html#integrator-first-composer-ce>*
 
 ---
 
