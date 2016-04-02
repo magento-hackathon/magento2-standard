@@ -17,11 +17,11 @@
     "repositories": [
         {
             "type": "composer",
-            "url": "http://repo.magento.com/"
+            "url": "https://repo.magento.com/"
         }
     ],
     "require": {
-        "magento/product-community-edition": "2.0.2"
+        "magento/product-community-edition": "2.0.4"
     },
     "autoload": {
         "psr-4": {

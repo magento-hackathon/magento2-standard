@@ -6,7 +6,7 @@
 
 ---
 
-![Version of Magento](https://img.shields.io/badge/Version%20of%20Magento%20installed%20by%20this%20project-2.0.2-green.svg)
+![Version of Magento](https://img.shields.io/badge/Version%20of%20Magento%20installed%20by%20this%20project-2.0.4-green.svg)
 
 As you probably know, Composer is used in Magento 2.  
 One of the fine part is that Magento 2 can be totally (ok, almost) included in the `vendor` directory.
