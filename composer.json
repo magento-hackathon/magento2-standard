@@ -25,8 +25,16 @@
     },
     "autoload": {
         "psr-4": {
-            "Magento\\Setup\\": "setup/src/Magento/Setup/"
-        }
+            "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+            "Magento\\Setup\\": "setup/src/Magento/Setup/",
+            "Magento\\": "app/code/Magento/"
+        },
+        "psr-0": {
+            "": "app/code/"
+        },
+        "files": [
+            "app/etc/NonComposerComponentRegistration.php"
+        ]
     },
     "scripts": {
         "post-install-cmd": [
